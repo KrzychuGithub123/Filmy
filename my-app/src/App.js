@@ -10,7 +10,7 @@ function App() {
     <input type="text" class="form-control" id="film" />
   </div>
   <div id="Rodzajfilmu" class="form-text">Wybierz rodzaj filmu</div>
-  <input  type="password"  class="form-controll" id="exampleInputPassword1"      ></input>
+ 
   <select class="form-select" aria-label="Default select example">
   <option selected>Rodzaj</option>
   <option value="1"></option>
