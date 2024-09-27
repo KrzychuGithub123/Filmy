@@ -11,10 +11,15 @@ function App() {
   </div>
   <div id="Rodzajfilmu" class="form-text">Wybierz rodzaj filmu</div>
   <input  type="password"  class="form-controll" id="exampleInputPassword1"      ></input>
-    
-
-
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <select class="form-select" aria-label="Default select example">
+  <option selected>Rodzaj</option>
+  <option value="1"></option>
+  <option value="2">Komedia</option>
+  <option value="3">Obyczajowy</option>
+  <option value="4">Sensacyjny</option>
+  <option value="5">Horror</option>
+</select>
+<div><button type="submit" class="btn btn-primary">Submit</button></div>
 </form>
 </div>
    );
