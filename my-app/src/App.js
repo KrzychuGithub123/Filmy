@@ -19,7 +19,7 @@ function App() {
   <option value="4">Sensacyjny</option>
   <option value="5">Horror</option>
 </select>
-<div><button type="submit" class="btn btn-primary">Submit</button></div>
+<div><button type="submit" class="btn btn-primary">Dodaj</button></div>
 </form>
 </div>
    );
